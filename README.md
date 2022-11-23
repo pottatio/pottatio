@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratham Mehta
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android studio, Java.
-- 💞️ I’m looking to collaborate on Android projects
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me --- email me prathamerit@gmail.com
 <!---
 pottatio/pottatio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
